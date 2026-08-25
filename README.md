@@ -1,3 +1,4 @@
+<img width="667" height="506" alt="img" src="https://github.com/user-attachments/assets/434075cf-343e-4e02-967c-df7e65a00118" />
 # Rekordbox BPM & Metadata Manager v1.0
 
 A desktop GUI application and CLI utility that extracts analyzed metadata (BPM, Key, Genre, Rating, Comments, Year) directly from Rekordbox's database (`master.db`), writes metadata into audio file ID3/Vorbis/MP4 tags, renames physical files, and updates Rekordbox's internal track locations. Includes full **1-Click Revert** capability.
