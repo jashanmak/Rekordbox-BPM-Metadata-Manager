@@ -20,7 +20,7 @@ A desktop GUI application and CLI utility that extracts analyzed metadata (BPM, 
 
 ## Installation
 
-**Just launch RekordboxManager.exe.**
+**Just download and run RekordboxManager.exe.**
 
 ---
 
