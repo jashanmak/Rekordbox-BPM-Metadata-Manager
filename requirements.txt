@@ -1,0 +1,3 @@
+pyrekordbox>=0.4.4
+mutagen>=1.47.0
+colorama>=0.4.6
