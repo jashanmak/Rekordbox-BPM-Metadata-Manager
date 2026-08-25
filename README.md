@@ -6,7 +6,6 @@ A desktop GUI application and CLI utility that extracts analyzed metadata (BPM, 
 
 ## Features
 
-- **Modern Desktop GUI**: Built with CustomTkinter for a dark-themed, sleek UI.
 - **Camelot & OpenKey Translation**: Converts Rekordbox key notation to Camelot (`8A`, `12B`) or OpenKey (`8m`, `12d`).
 - **1-Click Revert System**: Every renaming operation records session logs. Revert physical filenames on disk AND restore Rekordbox database paths back to their original state anytime.
 - **Rich Metadata Extraction & Tagging**:
