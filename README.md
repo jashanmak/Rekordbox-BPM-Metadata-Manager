@@ -20,6 +20,12 @@ A desktop GUI application and CLI utility that extracts analyzed metadata (BPM, 
 
 ## Installation
 
+**Just launch RekordboxManager.exe. **
+
+
+
+If you want to build it yourself
+
 ```bash
 cd C:\Users\yuuts\.gemini\antigravity\scratch\rekordbox-bpm-renamer
 pip install -r requirements.txt
